@@ -2,7 +2,8 @@
 
 ![Thumbnail](thumbnail.png)
 
-### <a href="https://react-movie-tmdb-wam.netlify.app/" target="_blank">Demo app</a>
+### [Demo app](https://react-movie-tmdb-wam.netlify.app/)
+
 
 A Movie Library made with ReactJS using The Movie Database API
 
