@@ -1,5 +1,7 @@
 # React Movie TMDB Api
 
+[![wakatime](https://wakatime.com/badge/github/wachidamirul/react-movie-tmdb.svg)](https://wakatime.com/badge/github/wachidamirul/react-movie-tmdb)
+
 ![Thumbnail](thumbnail.png)
 
 ### [Demo app](https://react-movie-tmdb-wam.netlify.app/)
