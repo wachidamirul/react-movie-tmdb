@@ -2,6 +2,8 @@
 
 ![Thumbnail](thumbnail.png)
 
+### [Demo app](https://react-movie-tmdb-wam.netlify.app/)
+
 A Movie Library made with ReactJS using The Movie Database API
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
